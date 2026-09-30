@@ -2,7 +2,7 @@
 
 > **Este Repositorio contem a continuação de alguns exercicios praticos de python!!**
 
-Este repositório foi criado para documentar a minha evolução na linguagem **Python**, reunindo desde a consolidação de sintaxes essenciais até o desenvolvimento de **sistemas orientados a objetos (POO)** com manipulação de arquivos e regras de negócio em linha de comando (CLI)[cite: 2, 6].
+Este repositório foi criado para documentar a minha evolução na linguagem **Python**, reunindo desde a consolidação de sintaxes essenciais até o desenvolvimento de **sistemas orientados a objetos (POO)** com manipulação de arquivos e regras de negócio em linha de comando (CLI)
 
 ---
 
