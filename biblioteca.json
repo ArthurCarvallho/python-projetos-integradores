@@ -1,0 +1,24 @@
+{
+    "livros": [
+        {
+            "id": 1,
+            "titulo": "Jorge O Curioso",
+            "autor": "Pedro",
+            "ano": 1990,
+            "disponivel": true
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Arthur",
+            "idade": 20
+        },
+        {
+            "id": 2,
+            "nome": "Rubia",
+            "idade": 23
+        }
+    ],
+    "emprestimos": []
+}
